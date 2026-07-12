@@ -16,7 +16,8 @@
 
 | Dashboard Overview | Quote Builder | PDF Output |
 |---|---|---|
-| `[ screenshot / GIF ]` | `[ screenshot / GIF ]` | `[ screenshot / GIF ]` |
+| ![Uploading Captura de Tela 2026-07-12 às 16.16.34.png…]()
+ | `[ screenshot / GIF ]` | `[ screenshot / GIF ]` |
 
 | Client Management | Quote Detail View | Auth Flow |
 |---|---|---|
