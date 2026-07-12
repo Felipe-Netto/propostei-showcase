@@ -14,10 +14,15 @@
 
 > Screenshots and screen-recording GIFs will be added here.
 
-| Dashboard Overview | Quote Builder | PDF Output |
-|---|---|---|
-|<img width="1624" height="1061" alt="Captura de Tela 2026-07-12 às 16 16 34" src="https://github.com/user-attachments/assets/f644b95f-2b91-4801-826c-0b1e25615a32" />|<video src="https://github.com/user-attachments/assets/40a9b8f1-07d5-487c-9c9d-0d3681ba3f9c" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" style="max-width: 100%; border-radius: 8px;">
-</video>| <img width="1624" height="1061" alt="Captura de Tela 2026-07-12 às 16 24 03" src="https://github.com/user-attachments/assets/408a4c2b-0af9-4375-8d00-10931d058171" />|
+### 🖥️ Dashboard Overview
+<img src="https://github.com/user-attachments/assets/f644b95f-2b91-4801-826c-0b1e25615a32" alt="Dashboard Overview" style="max-width: 100%; border-radius: 8px; margin-bottom: 20px;" />
+
+### ⚡ Quote Builder (Interactive Demo)
+<video src="https://github.com/user-attachments/assets/40a9b8f1-07d5-487c-9c9d-0d3681ba3f9c" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" style="max-width: 100%; border-radius: 8px; margin-bottom: 20px;">
+</video>
+
+### 📄 Document Output (PDF)
+<img src="https://github.com/user-attachments/assets/408a4c2b-0af9-4375-8d00-10931d058171" alt="PDF Output" style="max-width: 100%; border-radius: 8px;" />
 
 | Client Management | Quote Detail View | Auth Flow |
 |---|---|---|
