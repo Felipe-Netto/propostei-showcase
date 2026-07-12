@@ -16,8 +16,7 @@
 
 | Dashboard Overview | Quote Builder | PDF Output |
 |---|---|---|
-| ![Uploading Captura de Tela 2026-07-12 às 16.16.34.png…]()
- | `[ screenshot / GIF ]` | `[ screenshot / GIF ]` |
+|<img width="1624" height="1061" alt="Captura de Tela 2026-07-12 às 16 16 34" src="https://github.com/user-attachments/assets/f644b95f-2b91-4801-826c-0b1e25615a32" />| `[ screenshot / GIF ]` | `[ screenshot / GIF ]` |
 
 | Client Management | Quote Detail View | Auth Flow |
 |---|---|---|
