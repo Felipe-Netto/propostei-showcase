@@ -16,7 +16,8 @@
 
 | Dashboard Overview | Quote Builder | PDF Output |
 |---|---|---|
-|<img width="1624" height="1061" alt="Captura de Tela 2026-07-12 às 16 16 34" src="https://github.com/user-attachments/assets/f644b95f-2b91-4801-826c-0b1e25615a32" />|https://github.com/user-attachments/assets/40a9b8f1-07d5-487c-9c9d-0d3681ba3f9c| `[ screenshot / GIF ]` |
+|<img width="1624" height="1061" alt="Captura de Tela 2026-07-12 às 16 16 34" src="https://github.com/user-attachments/assets/f644b95f-2b91-4801-826c-0b1e25615a32" />|<video src="https://github.com/user-attachments/assets/40a9b8f1-07d5-487c-9c9d-0d3681ba3f9c" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" style="max-width: 100%; border-radius: 8px;">
+</video>| `[ screenshot / GIF ]` |
 
 | Client Management | Quote Detail View | Auth Flow |
 |---|---|---|
